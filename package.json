@@ -1,0 +1,23 @@
+{
+  "name": "hello_microverse",
+  "version": "1.0.0",
+  "description": "![Alt text](imgs/hello_micro.png?raw=true \"Optional Title\")",
+  "main": "index.js",
+  "dependencies": {
+    "hint": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metsanpeitto/Hello_Microverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metsanpeitto/Hello_Microverse/issues"
+  },
+  "homepage": "https://github.com/Metsanpeitto/Hello_Microverse#readme"
+}
